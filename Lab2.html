@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        //Q1
+
+        //---1
+        //command+ / = comment
+        //command+k+u = uncomment
+
+        // function getValue() {
+        //     let value = 0;
+            
+        //     setTimeout(function(){
+        //         value = 10;
+        //         console.log(value);
+        //     },1000);
+        //     return value;
+        // }
+        // console.log(getValue());
+
+        //---2
+        // function getValue(callback) {
+        //     let value = 0;
+
+        //     setTimeout(function(){
+        //         value = 10;
+        //         callback(value)
+        //     }, 2000);
+
+        //     return value;
+        // }
+        // console.log(getValue(function (nvalue){
+        //     console.log("callback function "+nvalue);
+        // }));
+
+        //---3
+        // function getValue() {
+        //     let value = 0;
+
+        //     return new Promise (function(resolve, reject){
+        //         setTimeout(function() {
+        //             value = 10;
+        //             resolve(value);
+        //         }, 3000);
+        //     });
+        // }
+        // getValue().then(function (value){
+        //     console.log(value);
+        // });
+        // console.log("Hello");
+
+        //---4
+        // function getValue() {
+        //     let value = 0;
+
+        //     return new Promise (function(resolve, reject){
+        //         setTimeout(function() {
+        //             value = 10;
+        //             resolve(value);
+        //         }, 3000);
+        //     });
+        // }
+
+        // getValue().then(function (value){
+        //     console.log(value);
+        //     return value + 100;
+        // }).then(function (value){
+        //     console.log(value);
+        //     return value + 100;
+        // }).then(function (value){
+        //     console.log(value);
+        // });
+        // console.log("Hello");
+
+        //Q2 Classes in JS
+
+        function Vehicle(type){
+            this.type = type;
+            Vehicle.vehicleCount++;
+        }
+
+        Vehicle.prototype.print = function(){
+            console.log(this.type + " Vehicle is Driving");
+        };
+
+        Vehicle.vehicleCount = 0;
+
+        const vehicle = new Vehicle("SUSUKI");
+        //console.log(Vehicle.vehicleCount);
+        vehicle.print();
+
+        function Car(type){
+            Vehicle.call(this,type);
+
+            this.example = function(){
+                console.log("Example")
+            }
+        }
+
+        Car.prototype = Object.create(Vehicle.prototype);
+        Car.prototype.constructor = Car;
+
+        Car.prototype.balancewheels = function(){
+            console.log("Wheels are balanced");
+        }
+
+        const car = new Car("TOYOTA");
+
+        car.print();
+        car.balancewheels();
+        console.log(car.type, Vehicle.vehicleCount);
+
+    </script>
+</body>
+</html>
+
+<!-- Sir's Answer -->
+<!-- function getValue() {
+    let value = 0;
+    // resolve is for success
+    // reject is for error
+    return new Promise((resolve, reject) => {
+        setTimeout(function () {
+            value = 10;
+            resolve(value);
+        }, 1000);
+    });
+}
+function getNewValue(value) {
+    return new Promise((resolve, reject) => {
+        setTimeout(function () {
+            resolve(value * 100);
+        }, 1000);
+    });
+}
+function setValue(value) {
+    return value + 1999;
+}
+async function print() {
+    let value = await getValue();
+    value = await getNewValue(value);
+    return value;
+}
+print().then(value => setValue(value))
+    .then(value => console.log(value));
+const persons = {
+    organization: 'Science',
+    people: ['John', 'Jane'],
+    print: function () {
+        this.people.forEach(value => {
+            console.log(value, this.organization);
+        });
+    }
+};
+persons.print();
+// //Calling the function defined at line number 11
+// getValue().then(function (value) {
+//     return getNewValue(value);
+// }).then(function (value) {
+//     return setValue(value);
+// }).then(function (value) {
+//     console.log(value);
+// }); -->
+
+
