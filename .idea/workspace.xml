@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="lab5Done" />
+    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="lab3Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +75,10 @@
       <workItem from="1615730822112" duration="4000" />
       <workItem from="1616326718169" duration="281000" />
       <workItem from="1616327003223" duration="5278000" />
-      <workItem from="1616351297274" duration="1948000" />
+      <workItem from="1616351297274" duration="2648000" />
+      <workItem from="1616355287806" duration="49000" />
+      <workItem from="1617140398491" duration="4085000" />
+      <workItem from="1617652584045" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="lab5Done">
       <created>1616353406622</created>
@@ -96,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616353982628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab2Done">
+      <created>1616354186871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616354186871</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab3Done">
+      <created>1616354272899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616354272899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +136,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="lab5Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab5Done" />
+    <MESSAGE value="lab2Done" />
+    <MESSAGE value="lab3Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3Done" />
   </component>
 </project>
