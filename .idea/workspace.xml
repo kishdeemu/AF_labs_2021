@@ -1,104 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="labExtraDone">
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/01/2e97f0ae4d79955f1031e76fca39e2.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/08/2beccf04c460e8011f2d54c7dd4104.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/08/8534c518d275ecf269681370356af7.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/0b/17bae5ed867001df236d9189709522.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/0e/a58548f1efc52bcb438b1e9ef1cc90.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/17/416daa114060a80a21e1e8c495a3be.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/19/143921e1079d1fd40a32d99156752b.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/1a/62371d128ffb21aa450d612d5e24ac.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/1c/e361c0f1040271e87bd639a22dbdd7.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/1f/5b523c20bd4a536936c85767781a1a.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/26/8b8d87d3f93449bda493775aa26153.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/2c/d1f7474ad7c22ddc5948b160d076b6.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/2e/196d467af6eec15de7d7d7dbc02948.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/31/40d884be2913494d780b40816030e0.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/38/e215ae99fc37b156e52b0d6f80cd41.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/39/2a9a57622270214fcb90db88fa8480.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/3e/b3b368dcb9963846097c43f9f6c9d4.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/41/3f5574b596570c7c6faf5af490ded7.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/41/639c4628249138b000b39652ebe10e.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/43/a14cd6306f3a3fdc4bc362c992a4ad.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/47/e2d82633fe0310a884ed26f5b2ba11.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/48/6402229e609307924dc1ed15cc19f0.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/48/904a6ae1eee3ddc6df1001a5a90deb.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/4d/2f733e357f80dcd5da1e27da99ef37.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/51/9a1946299a8fd3913040d0112af2f0.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/62/3d67ead1fdcea6f32a64c74d858f82.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/63/938df4c6c07a739c455cabc3379d78.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/64/ab9044df3c2df1216217bc11d99cc9.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/66/4a5bcb91a3e3611936703108465d9c.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/6a/24ecaece39c0e856a41d47a90e84b0.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/6c/c5e6eaf31d1e5001a2360f51ab416b.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/70/fc5e38c63534d01929d88fa35267ad.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/75/9f4b4e25c9f269b0b1e43a45f3f756.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/75/b61586023c6098312c9c61b1a073a8.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/78/056740d0fd170a19bcc948952cd68f.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/81/545b943d6f091c9f7b03ae666e2334.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/84/0b57a9782255532eec0a09038f509f.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/87/ae5231617f723f56bced9ba3b892b1.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/87/e64632b431707c25b210bcd029ef04.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/88/3aaabeab9048909608f9596fc88644.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/8b/436de205562239fc735e4c9558f466.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/8e/e14157a1e3f39bc320db8f282e6182.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/8f/9cbddef032e24c864ab9b1380ae921.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/91/09a54572d7b0af30d0e9fcdfa854c2.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/93/2a7c03dbee3615e399f1e7b3a2f665.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/99/cb762a5be3363695adf5c6bf2a200d.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/a5/8274736a25b5234dd1ae95512291e4.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/a9/6b778c2a60f19c4681b5b88f16bf6b.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/a9/a2b96bdc53d25285e29ed9b3f4344e.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/aa/7093ff6d82053984b35ae282e3d0ff.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/ad/6deeb3c39976b72deddf4460b19a65.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/ad/eb75ab9b860910f501714977bb3d13.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/af/2763acb973e9eded594615545e66bb.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/b4/042e377b9d98d7b85bcf1075b6e854.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/b5/2e671b3be0daa8888e62c12d713bad.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/b7/3edc9da9018693e0bd613a5be75ce8.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/b8/0c619a980c85053259312ac9af4f24.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/ba/4cb153d5d01b1a7cc92d43d900f105.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/bb/6afbca5de31e40dcfa868da8266b0d.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/bb/9d47948d9dd36ef9585a4981fbdb82.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c0/1196dcab01e65a6695ad5c4cc75b66.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c2/a5090bfb6aabdd25400155accca999.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c3/43014119135ac9fc26df2e4d623ec1.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c3/df206e14a5bcb523ab712338f670c7.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c5/2ff676c0b0561fdc84d1d47ac94bde.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c5/de6e128ace4b1bb49bde0f230174e3.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c6/2a2f8022fb1955893d1a8871124f46.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c7/61fcab22c56a4219a86b100d1e8e43.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/c8/96549dece9743287c526e7aa79c51c.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/ca/aa0f82e1a042bde506beebd7cc3f1d.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/cb/fba8d9f90f55b5fb228c235a8386b8.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/cd/156780dd2d86df5974ab51512a1eed.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/d2/1cd0f02b11a0c87573f0202c8d4b8c.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/d7/0766257e289425e89732eeb56f4e73.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/d7/d35e44eb24c29d43c9f9009630dfa1.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/dc/5e9f4c2f9e2b78f385e13d081114fe.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/dc/c316b5438610a702a58b64ce6756d0.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/dd/f2ac5af53725af187da9f4b44d8fee.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/df/3b210c6eead08f4079f4fdab465af1.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/e0/b3b3d7b5ac94f2da025dc73016315c.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/e5/1eb01227b103054e90bea11f3f9a1f.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/e8/b150673b21c69b071fa0191a1ebbd7.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/ec/dc0f68a61347b3371e78562463e848.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/ed/4b97f7e80a8c58ce49a2baa399c5a6.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/f8/4a712b2edfbaf6dfa9ddbb31715e4a.v8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/f9/49e9bf00666a777f5f9f02a072736b.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Component/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Component/PostListItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/Component/Posts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/dist/index.63f10152.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/dist/index.63f10152.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab7/package.json" afterDir="false" />
+    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="lab7-part1 done">
+      <change afterPath="$PROJECT_DIR$/Lab7/.parcel-cache/81/0f571d1a4f3ea0439884a277cb3e4c.blob" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +88,15 @@
       <workItem from="1617652584045" duration="1778000" />
       <workItem from="1618141163630" duration="3123000" />
       <workItem from="1618584294656" duration="554000" />
-      <workItem from="1618584905583" duration="1058000" />
+      <workItem from="1618584905583" duration="1813000" />
+      <workItem from="1618609694117" duration="337000" />
+      <workItem from="1619041270510" duration="317000" />
+      <workItem from="1619121934552" duration="30000" />
+      <workItem from="1619122000681" duration="72000" />
+      <workItem from="1619122123869" duration="306000" />
+      <workItem from="1619350276901" duration="601000" />
+      <workItem from="1619379206280" duration="395000" />
+      <workItem from="1619992000939" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="lab5Done">
       <created>1616353406622</created>
@@ -228,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617653607503</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab7-part1 done">
+      <created>1618586575375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618586575375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +171,7 @@
     <MESSAGE value="lab2Done" />
     <MESSAGE value="lab3Done" />
     <MESSAGE value="labExtraDone" />
-    <option name="LAST_COMMIT_MESSAGE" value="labExtraDone" />
+    <MESSAGE value="lab7-part1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab7-part1 done" />
   </component>
 </project>
