@@ -47,5 +47,6 @@ export default class AddPost extends React.Component{
             </form>
             <PostsHolder/>
         </div>;
+
     }
 }
