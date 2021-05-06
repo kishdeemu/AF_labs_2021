@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="springbootLabDone" />
+    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="springbootLabDone">
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/SpringMavenApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/api/PostApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/controller/PostEndPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/domain/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/dto/PostDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/test/java/com/sliit/lab/SpringMavenApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +61,7 @@
       <recent name="$PROJECT_DIR$/Lab5/routes" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.server.js">
+  <component name="RunManager">
     <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lab5/server.js" working-dir="$PROJECT_DIR$/Lab5">
       <method v="2" />
     </configuration>
@@ -60,12 +75,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.server.js" />
-        <item itemvalue="npm.test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
