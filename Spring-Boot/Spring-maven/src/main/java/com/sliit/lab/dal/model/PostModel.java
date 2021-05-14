@@ -1,9 +1,13 @@
-package com.sliit.lab.domain;
+package com.sliit.lab.dal.model;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.LocalDateTime;
 
-public class Post {
-
+@Document("posts")
+public class PostModel { //Represent database concern || Database model :: Done by Deepika
+    @Id
     private String id;
     private String name;
     private String description;
@@ -40,4 +44,5 @@ public class Post {
     public void setPostedDate(LocalDateTime postedDate) {
         this.postedDate = postedDate;
     }
+
 }
