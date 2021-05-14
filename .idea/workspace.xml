@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="springbootLabDone">
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/.idea/Spring-Boot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/dal/adapter/PostDataAdapterMongoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/dal/model/PostModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/dal/repository/PostMongoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/domain/PostDataAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Boot/Spring-maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/api/PostApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/api/PostApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/domain/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/java/com/sliit/lab/domain/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Boot/Spring-maven/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="e51ce83b-52ac-4e38-9ce8-5ab0c721e181" name="Default Changelist" comment="springbootLabP2Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620338697994</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="springbootLabP2Done">
+      <created>1621018434698</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621018434699</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +196,7 @@
     <MESSAGE value="lab7-part1 done" />
     <MESSAGE value="lab7-part2 done" />
     <MESSAGE value="springbootLabDone" />
-    <option name="LAST_COMMIT_MESSAGE" value="springbootLabDone" />
+    <MESSAGE value="springbootLabP2Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="springbootLabP2Done" />
   </component>
 </project>
